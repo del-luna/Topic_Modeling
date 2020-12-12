@@ -4,6 +4,7 @@
 
 
 - Gensim
+- pyLDAvis
 - Python
 - WordCloud
 - Mecab
