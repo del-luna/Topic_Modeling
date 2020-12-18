@@ -8,3 +8,4 @@
 - Python
 - WordCloud
 - Mecab
+- NO update
